@@ -1,0 +1,5 @@
+/HOME_DIR/OpenFOAM_Project/cases/airFoil2D/constant/polyMesh
+/HOME_DIR/SU2_Project/cases/Compare_OF-SU2/mesh
+naca0012_from_openfoam.su2
+2D
+Z
